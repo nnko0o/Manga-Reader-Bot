@@ -1,3 +1,4 @@
+[Arabic readme - النسخة العربية](https://github.com/nnko0o/Manga-Reader-Bot/blob/main/ar-READNE.md)
 # Manga-Reader-Bot
  Telegram bot you can read manga with it, 
  And you have a big libry from [3asq manga](https://3asq.org)
