@@ -9,4 +9,6 @@
  - Add the latest update
 
 # Screenshots
- ...
+ ![chat](https://github.com/nnko0o/Manga-Reader-Bot/raw/main/screenshots/IMG_20230202_142025.jpg)
+ ![chat2](https://github.com/nnko0o/Manga-Reader-Bot/raw/main/screenshots/IMG_20230202_142042.jpg)
+  **The Bot :** [@Manga3asq_bot](https://t.me/Manga3asq_bot)
