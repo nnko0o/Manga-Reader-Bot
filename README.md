@@ -5,8 +5,8 @@
  Build with python using [pyrogram](https://github.com/pyrogram/pyrogram)
  The bot is arabic bot with arabic mangas, for the future will i add English.
 # TODO:
- - Optimize pages and navigate between them 
- - Add search command 
+ - ~~Optimize pages and navigate between them~~
+ - **Add search command**
  - Add the latest update
 
 # Screenshots
