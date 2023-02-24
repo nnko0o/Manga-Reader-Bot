@@ -1,0 +1,22 @@
+# Telegram Bot Libary's
+pyrogram
+TgCrypto
+pykeyboard
+pyromod
+
+# Scrap Libary's
+beautifulsoup4
+
+
+# Http Libary's
+httpx
+aiohttp
+aiofiles
+
+# Image libary
+pillow
+
+# thing must update them...
+asyncio
+
+# --upgrade asyncio aiohttp aiofiles httpx beautifulsoup4 pykeyboard pillow
