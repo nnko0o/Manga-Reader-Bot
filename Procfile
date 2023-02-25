@@ -1,1 +1,1 @@
-worker: python3 bot/PyrogramBot.py
+web: python3 bot/PyrogramBot.py
