@@ -25,7 +25,7 @@ wait_time:list = [1229755]
 
 api_id=11619572
 api_key="f9dd1efc1781f1476c53afa04d76b234"
-bot_token="6114851678:AAHV7HbEcS7LpoL3dELA0qesY4nSlTaoV_U"
+bot_token="6114851678:AAHV76114851678:AAGXatT3ZrbnoFk5AI9ztpSGkl9r_I6v_IA"
 c: Client = Client(
 	"telegramClient"
 	, api_id=api_id
