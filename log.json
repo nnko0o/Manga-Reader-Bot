@@ -1,0 +1,996 @@
+{
+    "LOGS": [
+        {
+            "time": 11,
+            "log-text": "blah balh"
+        },
+        {
+            "time": 1675714752.6650634,
+            "log-text": "<function log at 0x00000000067D41F0>"
+        },
+        {
+            "time": 1675714814.390594,
+            "log-text": "<function log at 0x00000000067D41F0>"
+        },
+        {
+            "time": 1675714880.6063814,
+            "log-text": "<function log at 0x00000000067D41F0>"
+        },
+        {
+            "time": 1675715119.201028,
+            "log-text": "<function log at 0x00000000067D41F0>"
+        },
+        {
+            "time": 1675715139.3981833,
+            "log-text": "<function log at 0x00000000067D41F0>"
+        },
+        {
+            "time": 1675715231.6334589,
+            "log-text": "BOT is running!"
+        },
+        {
+            "time": 1675715232.6415164,
+            "log-text": " Manga Command data: berserk : 11 ; BY Puck Manga - \u0645\u0627\u0646\u062c\u0627 \u0628\u0648\u0643\\6114851678 ;"
+        },
+        {
+            "time": 1675715478.0265517,
+            "log-text": "BOT has Stoped!"
+        },
+        {
+            "time": 1675715496.8616292,
+            "log-text": "BOT is running!"
+        },
+        {
+            "time": 1675864472.7693121,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675864494.6985667,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1675864607.3610103,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675864614.9294434,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1675864624.557994,
+            "log-text": "Page Change; data:berserk\\280\\2; User:1655098601"
+        },
+        {
+            "time": 1675864626.9051285,
+            "log-text": "Page Change; data:berserk\\280\\3; User:1655098601"
+        },
+        {
+            "time": 1675864628.0381932,
+            "log-text": "Page Change; data:berserk\\280\\4; User:1655098601"
+        },
+        {
+            "time": 1675864629.0162492,
+            "log-text": "Page Change; data:berserk\\280\\5; User:1655098601"
+        },
+        {
+            "time": 1675864629.9373019,
+            "log-text": "Page Change; data:berserk\\280\\6; User:1655098601"
+        },
+        {
+            "time": 1675864697.2721531,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675864704.5745707,
+            "log-text": "Page Change; data:berserk\\280\\6; User:1655098601"
+        },
+        {
+            "time": 1675864750.314187,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675864769.1952667,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675864773.532515,
+            "log-text": "Page Change; data:berserk\\280\\1; User:1655098601"
+        },
+        {
+            "time": 1675864775.2726145,
+            "log-text": "Page Change; data:berserk\\280\\2; User:1655098601"
+        },
+        {
+            "time": 1675864777.309731,
+            "log-text": "Page Change; data:berserk\\280\\3; User:1655098601"
+        },
+        {
+            "time": 1675864780.1538937,
+            "log-text": "Page Change; data:berserk\\280\\4; User:1655098601"
+        },
+        {
+            "time": 1675864782.6900387,
+            "log-text": "Page Change; data:berserk\\280\\5; User:1655098601"
+        },
+        {
+            "time": 1675864786.4682548,
+            "log-text": "Page Change; data:berserk\\280\\18; User:1655098601"
+        },
+        {
+            "time": 1675864792.8456197,
+            "log-text": "Page Change; data:berserk\\280\\15; User:1655098601"
+        },
+        {
+            "time": 1675864801.7601295,
+            "log-text": "Page Change; data:berserk\\280\\1; User:1655098601"
+        },
+        {
+            "time": 1675864804.0182586,
+            "log-text": "Page Change; data:berserk\\280\\2; User:1655098601"
+        },
+        {
+            "time": 1675864805.2053266,
+            "log-text": "Page Change; data:berserk\\280\\3; User:1655098601"
+        },
+        {
+            "time": 1675864810.4306252,
+            "log-text": "Page Change; data:berserk\\280\\4; User:1655098601"
+        },
+        {
+            "time": 1675864816.0999498,
+            "log-text": "Page Change; data:berserk\\280\\5; User:1655098601"
+        },
+        {
+            "time": 1675864832.1088653,
+            "log-text": "Page Change; data:berserk\\280\\3; User:1655098601"
+        },
+        {
+            "time": 1675864832.1248662,
+            "log-text": "Page Change; data:berserk\\280\\4; User:1655098601"
+        },
+        {
+            "time": 1675864832.1808693,
+            "log-text": "Page Change; data:berserk\\280\\5; User:1655098601"
+        },
+        {
+            "time": 1675864832.2198718,
+            "log-text": "Page Change; data:berserk\\280\\6; User:1655098601"
+        },
+        {
+            "time": 1675864982.4294634,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675865003.7136807,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675865015.5333564,
+            "log-text": "Page Change; data:berserk\\280\\4; User:1655098601"
+        },
+        {
+            "time": 1675865538.755283,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675865557.0193276,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675865598.7767162,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1675865644.1153095,
+            "log-text": "Page Change; data:berserk\\280\\2; User:1655098601"
+        },
+        {
+            "time": 1675865650.369667,
+            "log-text": "Page Change; data:berserk\\280\\3; User:1655098601"
+        },
+        {
+            "time": 1675865737.223635,
+            "log-text": "Page Change; data:berserk\\280\\3; User:1655098601"
+        },
+        {
+            "time": 1675865745.6981196,
+            "log-text": "Page Change; data:berserk\\280\\4; User:1655098601"
+        },
+        {
+            "time": 1675865781.7081792,
+            "log-text": "Page Change; data:berserk\\280\\4; User:1655098601"
+        },
+        {
+            "time": 1675865817.4602242,
+            "log-text": "Page Change; data:berserk\\280\\4; User:1655098601"
+        },
+        {
+            "time": 1675865988.3870006,
+            "log-text": "Page Change; data:berserk\\280\\3; User:1655098601"
+        },
+        {
+            "time": 1675866107.8118312,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675866112.4460964,
+            "log-text": "Page Change; data:berserk\\280\\1; User:1655098601"
+        },
+        {
+            "time": 1675866139.925668,
+            "log-text": "Page Change; data:berserk\\280\\2; User:1655098601"
+        },
+        {
+            "time": 1675866141.7997756,
+            "log-text": "Page Change; data:berserk\\280\\3; User:1655098601"
+        },
+        {
+            "time": 1675866180.1429687,
+            "log-text": "Page Change; data:berserk\\280\\4; User:1655098601"
+        },
+        {
+            "time": 1675866191.463616,
+            "log-text": "Page Change; data:berserk\\280\\5; User:1655098601"
+        },
+        {
+            "time": 1675866210.7217176,
+            "log-text": "Page Change; data:berserk\\280\\6; User:1655098601"
+        },
+        {
+            "time": 1675866285.2909827,
+            "log-text": "Page Change; data:berserk\\280\\5; User:1655098601"
+        },
+        {
+            "time": 1675866286.593057,
+            "log-text": "Page Change; data:berserk\\280\\6; User:1655098601"
+        },
+        {
+            "time": 1675866287.975136,
+            "log-text": "Page Change; data:berserk\\280\\7; User:1655098601"
+        },
+        {
+            "time": 1675866292.0743706,
+            "log-text": "Page Change; data:berserk\\280\\8; User:1655098601"
+        },
+        {
+            "time": 1675866296.3116128,
+            "log-text": "Page Change; data:berserk\\280\\9; User:1655098601"
+        },
+        {
+            "time": 1675866301.4319057,
+            "log-text": "Page Change; data:berserk\\280\\10; User:1655098601"
+        },
+        {
+            "time": 1675866304.740095,
+            "log-text": "Page Change; data:berserk\\280\\11; User:1655098601"
+        },
+        {
+            "time": 1675866307.7612677,
+            "log-text": "Page Change; data:berserk\\280\\12; User:1655098601"
+        },
+        {
+            "time": 1675866318.8088996,
+            "log-text": "Page Change; data:berserk\\280\\13; User:1655098601"
+        },
+        {
+            "time": 1675874580.2124078,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675874606.192894,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675874623.6848943,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675874677.2469578,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675874689.6736686,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675874797.882858,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675874831.2367656,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675874855.9351783,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675874925.2131407,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675874965.4514422,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675874984.8145497,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675875149.7509837,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675875176.539516,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675875285.5237494,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675875304.2878225,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675875569.0679672,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675875586.4299603,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675875658.421078,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675875674.459995,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675875751.2403867,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675875802.936344,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675875955.923094,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675876040.6919425,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1675877933.3541965,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1675904886.383137,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676266124.3465848,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676266459.6194556,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676266622.9699197,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676266708.518574,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676266866.9763303,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676266912.1029446,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676272577.646757,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676272965.2313256,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676273075.3158467,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676273181.480589,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676273319.8759074,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676273669.8475022,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676273848.0148213,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676274181.1648893,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676274245.3722749,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676274295.4259605,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676274379.5940247,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676274422.5914142,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676274456.9161294,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676276868.9477932,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676276958.8708758,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676277215.2897651,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676277390.235969,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676277444.5479014,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676277544.3811514,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676277810.9477913,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676277961.1087413,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676278038.7417028,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676278146.625405,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676278599.9473422,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676278677.3728952,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676278738.0987902,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676279710.503656,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676279800.972968,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676279904.6809375,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676279971.0185914,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676280099.0341535,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676281784.2524288,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676282041.693172,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676282213.2221496,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676282300.275185,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676282368.7722194,
+            "log-text": "Page Change; data:pagechange@berserk\\18\\2; User:1655098601"
+        },
+        {
+            "time": 1676282479.796369,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676282802.7618494,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676282899.3849378,
+            "log-text": "Page Change; data:berserk\\0b\\2; User:1655098601"
+        },
+        {
+            "time": 1676282899.4572065,
+            "log-text": "Page Change; data:berserk\\0b\\2; User:1655098601"
+        },
+        {
+            "time": 1676282957.2981994,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676282979.2325144,
+            "log-text": "Page Change; data:berserk\\0b\\2; User:1655098601"
+        },
+        {
+            "time": 1676282980.1660037,
+            "log-text": "Page Change; data:berserk\\0b\\2; User:1655098601"
+        },
+        {
+            "time": 1676283021.435378,
+            "log-text": "Page Change; data:berserk\\0b\\1; User:1655098601"
+        },
+        {
+            "time": 1676283025.0213008,
+            "log-text": "Page Change; data:berserk\\0b\\2; User:1655098601"
+        },
+        {
+            "time": 1676283028.2977808,
+            "log-text": "Page Change; data:berserk\\0b\\1; User:1655098601"
+        },
+        {
+            "time": 1676283030.8074026,
+            "log-text": "Page Change; data:berserk\\0b\\3; User:1655098601"
+        },
+        {
+            "time": 1676283039.8738396,
+            "log-text": "Page Change; data:berserk\\0b\\3; User:1655098601"
+        },
+        {
+            "time": 1676283580.8881829,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676283650.9278865,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676283700.2439728,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676283896.2278178,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676320937.1053185,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676320965.4081469,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1676320980.8519752,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1676321262.991596,
+            "log-text": "Page Change; data:berserk\\310\\2; User:1655098601"
+        },
+        {
+            "time": 1676321378.248154,
+            "log-text": "Page Change; data:berserk\\310\\3; User:1655098601"
+        },
+        {
+            "time": 1676321425.2737465,
+            "log-text": "Page Change; data:berserk\\310\\4; User:1655098601"
+        },
+        {
+            "time": 1676322248.2296572,
+            "log-text": "Page Change; data:berserk\\310\\4; User:1655098601"
+        },
+        {
+            "time": 1676368575.4967542,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1676369250.5958564,
+            "log-text": "Page Change; data:berserk\\1\\2; User:1655098601"
+        },
+        {
+            "time": 1676369258.968394,
+            "log-text": "Page Change; data:berserk\\1\\4; User:1655098601"
+        },
+        {
+            "time": 1676369265.5953066,
+            "log-text": "Page Change; data:berserk\\1\\3; User:1655098601"
+        },
+        {
+            "time": 1676371792.7334313,
+            "log-text": "Page Change; data:berserk\\1\\3; User:1655098601"
+        },
+        {
+            "time": 1676371792.897614,
+            "log-text": "Page Change; data:berserk\\1\\4; User:1655098601"
+        },
+        {
+            "time": 1676480007.3285325,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676480220.081429,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1676480244.1317084,
+            "log-text": "Page Change; data:berserk\\11\\2; User:1655098601"
+        },
+        {
+            "time": 1676480347.6388643,
+            "log-text": "Page Change; data:berserk\\11\\3; User:1655098601"
+        },
+        {
+            "time": 1676480351.064453,
+            "log-text": "Page Change; data:berserk\\11\\4; User:1655098601"
+        },
+        {
+            "time": 1676480354.2476432,
+            "log-text": "Page Change; data:berserk\\11\\5; User:1655098601"
+        },
+        {
+            "time": 1676480402.2944174,
+            "log-text": "Page Change; data:berserk\\11\\6; User:1655098601"
+        },
+        {
+            "time": 1676480497.5693073,
+            "log-text": "Page Change; data:berserk\\11\\7; User:1655098601"
+        },
+        {
+            "time": 1676480537.7977264,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676480551.0676482,
+            "log-text": "Page Change; data:berserk\\11\\1; User:1655098601"
+        },
+        {
+            "time": 1676480572.4041016,
+            "log-text": "Page Change; data:berserk\\11\\2; User:1655098601"
+        },
+        {
+            "time": 1676480573.5299714,
+            "log-text": "Page Change; data:berserk\\11\\3; User:1655098601"
+        },
+        {
+            "time": 1676480575.3909214,
+            "log-text": "Page Change; data:berserk\\11\\1; User:1655098601"
+        },
+        {
+            "time": 1676480578.2572684,
+            "log-text": "Page Change; data:berserk\\11\\4; User:1655098601"
+        },
+        {
+            "time": 1676480579.5137877,
+            "log-text": "Page Change; data:berserk\\11\\5; User:1655098601"
+        },
+        {
+            "time": 1676480580.6094224,
+            "log-text": "Page Change; data:berserk\\11\\6; User:1655098601"
+        },
+        {
+            "time": 1676480581.637804,
+            "log-text": "Page Change; data:berserk\\11\\7; User:1655098601"
+        },
+        {
+            "time": 1676480582.949685,
+            "log-text": "Page Change; data:berserk\\11\\8; User:1655098601"
+        },
+        {
+            "time": 1676480740.4664834,
+            "log-text": "Page Change; data:berserk\\11\\9; User:1655098601"
+        },
+        {
+            "time": 1676481023.8793743,
+            "log-text": "Manga Command; data:one+piece\\one+piece;User:1655098601"
+        },
+        {
+            "time": 1676559058.253616,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676559107.7837553,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1676559131.798134,
+            "log-text": "Page Change; data:berserk\\1\\2; User:1655098601"
+        },
+        {
+            "time": 1676559132.9003255,
+            "log-text": "Page Change; data:berserk\\1\\3; User:1655098601"
+        },
+        {
+            "time": 1676559133.866568,
+            "log-text": "Page Change; data:berserk\\1\\4; User:1655098601"
+        },
+        {
+            "time": 1676559134.9787693,
+            "log-text": "Page Change; data:berserk\\1\\38; User:1655098601"
+        },
+        {
+            "time": 1676559136.970432,
+            "log-text": "Page Change; data:berserk\\1\\1; User:1655098601"
+        },
+        {
+            "time": 1676559138.501225,
+            "log-text": "Page Change; data:berserk\\1\\4; User:1655098601"
+        },
+        {
+            "time": 1676559139.7263842,
+            "log-text": "Page Change; data:berserk\\1\\5; User:1655098601"
+        },
+        {
+            "time": 1676559140.73859,
+            "log-text": "Page Change; data:berserk\\1\\6; User:1655098601"
+        },
+        {
+            "time": 1676559141.6185646,
+            "log-text": "Page Change; data:berserk\\1\\7; User:1655098601"
+        },
+        {
+            "time": 1676559143.2085762,
+            "log-text": "Page Change; data:berserk\\1\\8; User:1655098601"
+        },
+        {
+            "time": 1676559144.7406588,
+            "log-text": "Page Change; data:berserk\\1\\9; User:1655098601"
+        },
+        {
+            "time": 1676559187.5991488,
+            "log-text": "Page Change; data:berserk\\1\\10; User:1655098601"
+        },
+        {
+            "time": 1676559193.406449,
+            "log-text": "Page Change; data:berserk\\1\\11; User:1655098601"
+        },
+        {
+            "time": 1676559196.2016482,
+            "log-text": "Page Change; data:berserk\\1\\12; User:1655098601"
+        },
+        {
+            "time": 1676559198.91527,
+            "log-text": "Page Change; data:berserk\\1\\13; User:1655098601"
+        },
+        {
+            "time": 1676559447.7810893,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676559467.8821115,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1676559489.1264064,
+            "log-text": "Page Change; data:berserk\\1\\2; User:1655098601"
+        },
+        {
+            "time": 1676566134.593023,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676576751.627696,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1676585185.5057487,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676585491.5365407,
+            "log-text": "Manga Command; data:berserk\\berserk;User:5301272755"
+        },
+        {
+            "time": 1676585523.1705136,
+            "log-text": "Page Change; data:berserk\\1\\1; User:5301272755"
+        },
+        {
+            "time": 1676585525.2983708,
+            "log-text": "Page Change; data:berserk\\1\\1; User:5301272755"
+        },
+        {
+            "time": 1676585529.8756647,
+            "log-text": "Page Change; data:berserk\\1\\2; User:5301272755"
+        },
+        {
+            "time": 1676585538.0702772,
+            "log-text": "Page Change; data:berserk\\1\\3; User:5301272755"
+        },
+        {
+            "time": 1676585571.737625,
+            "log-text": "Page Change; data:berserk\\1\\3; User:5301272755"
+        },
+        {
+            "time": 1676585575.849446,
+            "log-text": "Page Change; data:berserk\\1\\4; User:5301272755"
+        },
+        {
+            "time": 1676585881.4200613,
+            "log-text": "Page Change; data:berserk\\1\\38; User:5301272755"
+        },
+        {
+            "time": 1676635863.785132,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1676636188.6206837,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1676636418.2485483,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1677055888.4714887,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1677056634.851295,
+            "log-text": "bot has STOPED!"
+        },
+        {
+            "time": 1677056650.1262968,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1677057408.2867088,
+            "log-text": "Manga Command; data:berserk\\berserk;User:1655098601"
+        },
+        {
+            "time": 1677057428.424571,
+            "log-text": "Page Change; data:berserk\\1\\2; User:1655098601"
+        },
+        {
+            "time": 1677057430.1625946,
+            "log-text": "Page Change; data:berserk\\1\\3; User:1655098601"
+        },
+        {
+            "time": 1677057431.4037154,
+            "log-text": "Page Change; data:berserk\\1\\4; User:1655098601"
+        },
+        {
+            "time": 1677078125.0714748,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1677078139.0080547,
+            "log-text": "Manga Command; data:berserk\\berserk;User:6114851678"
+        },
+        {
+            "time": 1677105221.7159052,
+            "log-text": "Manga Command; data:Berserk\\Berserk;User:1225542421"
+        },
+        {
+            "time": 1677105515.4127324,
+            "log-text": "Manga Command; data:Berserk\\Berserk;User:1225542421"
+        },
+        {
+            "time": 1677105538.4675672,
+            "log-text": "Page Change; data:berserk\\276\\2; User:1225542421"
+        },
+        {
+            "time": 1677105550.3222103,
+            "log-text": "Page Change; data:berserk\\273\\2; User:1225542421"
+        },
+        {
+            "time": 1677105550.3414505,
+            "log-text": "Page Change; data:berserk\\276\\2; User:1225542421"
+        },
+        {
+            "time": 1677142824.8387713,
+            "log-text": "Bot is Runnig!"
+        },
+        {
+            "time": 1677143263.4549758,
+            "log-text": "Page Change; data:berserk\\273\\3; User:1225542421"
+        },
+        {
+            "time": 1677143269.4964418,
+            "log-text": "Page Change; data:berserk\\273\\3; User:1225542421"
+        },
+        {
+            "time": 1677182265.6474144,
+            "log-text": "Manga Command; data:Berserk\\Berserk;User:1225542421"
+        },
+        {
+            "time": 1677182295.8590894,
+            "log-text": "Page Change; data:berserk\\274\\3; User:1225542421"
+        },
+        {
+            "time": 1677182513.361385,
+            "log-text": "Manga Command; data:Berserk\\Berserk;User:1225542421"
+        },
+        {
+            "time": 1677182808.9497535,
+            "log-text": "Page Change; data:berserk\\275\\2; User:1225542421"
+        },
+        {
+            "time": 1677216223.3166685,
+            "log-text": "Manga Command; data:berserk\\berserk;User:5289222617"
+        },
+        {
+            "time": 1677216374.3360474,
+            "log-text": "Page Change; data:berserk\\1\\38; User:5289222617"
+        },
+        {
+            "time": 1677216377.3972383,
+            "log-text": "Page Change; data:berserk\\1\\1; User:5289222617"
+        },
+        {
+            "time": 1677216382.8116908,
+            "log-text": "Page Change; data:berserk\\1\\2; User:5289222617"
+        },
+        {
+            "time": 1677216983.9087045,
+            "log-text": "Page Change; data:berserk\\1\\4; User:5289222617"
+        },
+        {
+            "time": 1677216984.3107154,
+            "log-text": "Page Change; data:berserk\\1\\38; User:5289222617"
+        },
+        {
+            "time": 1677216986.068625,
+            "log-text": "Page Change; data:berserk\\1\\36; User:5289222617"
+        },
+        {
+            "time": 1677216987.0235422,
+            "log-text": "Page Change; data:berserk\\1\\35; User:5289222617"
+        },
+        {
+            "time": 1677316129.1203942,
+            "log-text": "Bot is Runnig!"
+        }
+    ]
+}
