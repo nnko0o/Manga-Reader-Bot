@@ -17,7 +17,7 @@ import os,json,threading,re,aiofiles
 api_id=11619572
 api_key="f9dd1efc1781f1476c53afa04d76b234"
 OLD_bot_token="6114851678:AAHV7HbEcS7LpoL3dELA0qesY4nSlTaoV_U"
-bot_token =	"6114851678:AAGXatT3ZrbnoFk5AI9ztpSGkl9r_I6v_IA"
+bot_token =	"6114851678:AAFYFbRv7ORfji2Sp7Y-4CNoTAoLIDyR1Z8"
 c: Client = Client(
 	"telegramClient"
 	, api_id=api_id
