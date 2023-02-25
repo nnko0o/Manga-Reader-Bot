@@ -16,10 +16,16 @@ global msg01
 # list.remove() # delete item from value
 
 
-db = {
+"""db = {
 	# name:chabter_number :- pages <List of string have link>
 	"berserk:num"    : [0,1,2,3,4,5,6,7,000]
+}"""
+
+dataBase = {
+"manga-cach":{},"users":[]
 }
+users=dataBase["users"]
+db=dataBase["manga-cach"]
 # List of int   <chat_id>
 wait_time:list = [1229755]
 
