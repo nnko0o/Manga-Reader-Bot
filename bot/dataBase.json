@@ -1,0 +1,26 @@
+{
+    "users": [
+        1655098601,
+        1225542421,
+        1846615989,
+        1452286942,
+        1655098601,
+        1655098601,
+        1655098601
+    ],
+    "comment-1": "here the manga pages and her sizes cached",
+    "manga-cach": {
+        "berser:num": [
+            [
+                "$url str",
+                "$size int",
+                "$file_id str"
+            ],
+            [
+                "https://example/g.jpg",
+                26667,
+                "t43h44yy7d7y77ehdbghcewgbv655gdjdb3"
+            ]
+        ]
+    }
+}
