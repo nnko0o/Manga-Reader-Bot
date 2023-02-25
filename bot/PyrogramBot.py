@@ -30,7 +30,7 @@ c: Client = Client(
 	"telegramClient"
 	, api_id=api_id
 	, api_hash=api_key
-	, bot_token=bot_token
+	, bot_token="6114851678:AAGXatT3ZrbnoFk5AI9ztpSGkl9r_I6v_IA"
 	,)
 users=[]
 if not os.path.isfile(path="dataBase.json"):
