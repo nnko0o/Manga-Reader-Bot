@@ -23,9 +23,9 @@ db = {
 # List of int   <chat_id>
 wait_time:list = [1229755]
 
-api_id=11619572
-api_key="f9dd1efc1781f1476c53afa04d76b234"
-bot_token="6114851678:AAHV7HbEcS7LpoL3dELA0qesY4nSlTaoV_U"
+api_id=0 # put your api id
+api_key="put your api hash"
+bot_token="put your token here"
 c: Client = Client(
 	"telegramClient"
 	, api_id=api_id
